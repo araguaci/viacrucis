@@ -1,0 +1,170 @@
+---
+title: Orações 
+category: Orações
+layout: postside
+---
+
+## Pai Nosso
+
+<div class="side-by-side not-content">
+ 
+<p>
+<span class="text-green-500">℣.</span> Pater noster, qui es in cælis: sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo, et in terra.
+</p>
+<p>
+<span class="text-green-500">℣.</span> Pai Nosso, que estais nos céus, santificado seja o Vosso Nome, venha a nós o Vosso Reino; seja feita a Vossa vontade assim na terra como no Céu.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris. Et ne nos indúcas in tentatiónem. Sed líbera nos a malo.
+</p>
+<p>
+<span class="text-red-500">℟.</span> O pão nosso de cada dia nos dai hoje; perdoai-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixeis cair em tentação; mas livrai-nos do mal.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Amen.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Amen.
+</p>
+
+</div>
+
+## Ave Maria
+
+<div class="side-by-side not-content">
+<p>
+<span class="text-green-500">℣.</span> Ave, María, grátia plena, Dóminus tecum; benedícta tu in muliéribus, et benedíctus fructus ventris tui, Jesus.
+</p>
+<p>
+<span class="text-green-500">℣.</span> Ave, Maria, Cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do Vosso ventre, Jesus.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc, et in hora mortis nostræ.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Amen.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Amen.
+</p>
+
+</div>
+
+
+## Glória 
+
+<div class="side-by-side not-content">
+
+<p>
+<span class="text-green-500">℣.</span> Glória Patri, et Fílio, et Spíritui Sancto.
+</p>
+<p>
+<span class="text-green-500">℣.</span> Glória ao Pai, e ao Filho e ao Espírito Santo.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Sicut erat in pricípio, et nunc, et semper, et in sǽcula sæculórum.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Assim como era no princípio, agora e sempre, e por todos os séculos dos séculos.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Amen.
+</p>
+<p>
+<span class="text-red-500">℟.</span> Amen.
+</p>
+
+</div>
+
+## Jaculatórias
+
+Meu Jesus, misericórdia!
+
+Jesus, manso e humilde de coração, fazei o meu coração semelhante ao vosso.
+
+Doce Coração de meu Jesus, fazei que eu Vos ame cada vez mais.
+
+Seja feita, louvada e eternamente exaltada a justíssima, altíssima e amabilíssima vontade de Deus em todas as cousas.
+
+Ó Maria concebida, sem pecado. Rogai por nós que recorremos a Vós.
+
+Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno. Levai as almas todas para o Céu e socorrei principalmente as que mais precisarem
+
+Ó Jesus, manso e humilde de coração, fazei o nosso coração semelhante ao vosso.
+
+Meu Deus, eu creio, adoro, espero e amo-Vos. Peço-Vos perdão para os que não crêem, não adoram, não esperam e não Vos amam.
+
+Senhor, valei-me.
+
+Senhor, seja feita a vossa santíssima vontade.
+
+Maria, Auxílio dos Cristãos, rogai por nós.
+
+Meu Jesus, eu quero ser todo vosso.
+
+Meu Jesus, misericórdia.
+
+Doce Coração de Jesus, que tanto nos amais, fazei com que eu Vos ame cada vez mais.
+
+Doce Coração de Maria, sede minha salvação.
+
+Santa Bárbara Bendita, que no céu está escrita com papel e água benta, nos livre desta tormenta.
+
+São Miguel Arcanjo, defendei-nos no combate.
+
+## Exército de Almas
+
+Majestade Divina, Senhor da vida e da morte, dos que Vos amam e dos que Vos perseguem! Por intercessão da Santíssima Virgem de Fátima, Rainha da Paz e nossa Mãe, Vos pedimos que não deixeis a nossa Pátria onde Maria ergueu seu trono, venha a ser dominada e destruída por obra dos vossos inimigos. Enviai os vossos Santos Anjos a todos os locais da nossa terra e permiti que eles possam desenvolver as suas potências em todos seus recantos, para que o inimigo não venha a triunfar na nossa Pátria. Nós queremos formar um exército de almas que rezam para que Vós, Deus Uno e Trino, estendais a vossa Mão poderosa sobre este povo que é de Maria vossa Mãe. Permiti, ó Deus, que as nuvens tempestuosas que pairam sobre a humanidade e tendem a espalhar-se e a submergir a nossa Pátria, sejam afastadas. Só Vós podeis salvar-nos! Pela vossa graça e especial protecção da nossa Padroeira Maria Imaculada e do Anjo Custódio de Portugal, permiti, ó Deus, que a nossa terra nunca seja aniquilada pelo inimigo. Deus Santo, Deus Forte, Deus Todo-Poderoso, Deus Imortal, em união com todos os Santos Anjos, pedimo-Vos auxílio e Bênção para a nossa Pátria, por Jesus Cristo Nosso Senhor. Amen.
+
+## Ofício de Nossa Senhora
+
+<div><p align="justify">
+<b>Matinas e Laudes (Manhã e madrugada)</b> <br>
+Deus vos salve Virgem, Filha de Deus Pai! Deus vos salve Virgem, Mãe de Deus Filho! Deus vos salve Virgem, Esposa do Divino Espírito Santo! Deus vos salve Virgem, Templo e Sacrário da Santíssima Trindade! Agora, lábios meus, dizei e anunciai os grandes louvores da Virgem Mãe de Deus. Sede em meu favor, Virgem soberana, livrai-me do inimigo com o vosso valor. <br> <br>
+Glória seja ao Pai, ao Filho e ao Amor também, que é um só Deus em três Pessoas, agora e para sempre, e sem fim. Amém.
+<br> Hino <br>
+Deus vos salve, Virgem, Senhora do mundo, Rainha dos céus e das virgens, Virgem. Estrela da manhã, Deus vos salve, cheia de graça divina, formosa e louçã. Dai pressa Senhora, em favor do mundo, pois vos reconhece como defensora. Deus vos nomeou já desde toda a eternidade, para a Mãe do Verbo, com o qual criou, terra, mar e céus. E vos escolheu, quando Adão pecou, por esposa de Deus. Deus vos escolheu, e já muito dantes em seu tabernáculo morada lhe deu. Ouvi, Mãe de Deus, minha Oração. Toquem vosso peito os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, Mãe de Nosso Senhor Jesus Cristo, Senhora do mundo, que a nenhum pecador desamparais nem desprezais; ponde, Senhora, em mim os olhos de Vossa piedade e alcançai-me de Vosso amado Filho o perdão de todos os meus pecados, para que eu que agora venero com devoção a Vossa santa e Imaculada Conceição, mereça na outra vida alcançar o prêmio da bem-aventurança, por mercê do Vosso benditíssimo Filho, Jesus Cristo, Nosso Senhor, que, com o Pai e o Espírito Santo, vive e reina para sempre. Amém.  <br> <br> <br>
+<b>Prima (6 horas da manhã)</b> <br>
+Sede em meu favor, etc. <br> <br> Glória seja ao Pai, etc.
+<br> Hino <br>
+Deus vos salve, mesa para Deus ornada, coluna sagrada, de grande firmeza; Casa dedicada a Deus sempiterno, sempre preservada Virgem do pecado. Antes que nascida, foste, Virgem, santa, no ventre ditoso de Ana concebida. Sois Mãe criadora dos mortais viventes. Sois dos Santos porta, dos Anjos Senhora. Sois forte esquadrão contra o inimigo, estrela de Jacó, refúgio do cristão. A Virgem, a criou Deus no Espírito Santo, e todas as suas obras, com elas as ornou. Ouvi, Mãe de Deus, minha Oração. Toque Vosso peito os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, etc. <br> <br> <br>
+<b>Terça (9 horas da manhã)</b> <br>
+Sede em meu favor, etc. <br> <br> Glória seja ao Pai, etc.
+<br> Hino <br>
+Deus Vos salve, trono do grão Salomão, arca de concerto, velo de Gedeão; Íris do céu clara, sarça de visão, favo de Sansão, florescente vara; a qual escolheu para ser Mãe sua, e de Vós nasceu o Filho de Deus. Assim Vos livrou da culpa original, nenhum pecado há em Vós sinal. Vós, que habitais lá nessas alturas, e tendes Vosso Trono sobre as nuvens puras. Ouvi, Mãe de Deus, minha Oração. Toque em Vossos peitos os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, etc. <br> <br> <br>
+<b>Sexta (meio-dia)</b> <br>
+Sede em meu favor, etc. <br> <br> Glória seja ao Pai, etc.
+<br> Hino <br>
+Deus Vos salve, Virgem de trindade templo, alegria dos anjos, da pureza exemplo; que alegrais os tristes, com vossa clemência, horto de deleite, palma da paciência. Sois terra bendita e sacerdotal. Sois de castidade símbolo real. Cidade do Altíssimo, porta oriental; sois a mesma graça, Virgem singular. Qual lírio cheiroso, entre espinhas duras, tal sois Vós, Senhora entre as criaturas. Ouvi, Mãe de Deus, minha Oração. Toque em Vosso peito os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, etc. <br> <br> <br>
+<b>Nona (3 horas da tarde)</b> <br>
+Sede em meu favor, etc. <br> <br> Glória seja ao Pai, etc.
+<br> Hino <br>
+Deus vos salve, cidade de torres guarnecida, de Davi, com armas bem fortalecida. De suma caridade sempre abrasada, do dragão a força foi por Vós prostrada. A mulher tão forte! A invicta Judite! Que Vós alentastes o sumo Davi. Do Egito o curador, de Raquel nasceu: Do mundo o Salvador Maria no-Lo deu. Toda é formosa minha companheira, nela não há mácula da culpa primeira. Ouvi, Mãe de Deus, minha Oração. Toquem o Vosso peito os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, etc. <br> <br> <br>
+<b>Vésperas (6 horas da tarde)</b> <br>
+Sede em meu favor etc. <br> <br> Glória seja ao Pai etc.
+<br> Hino <br>
+Deus vos salve, relógio, que, andando atrasado, serviu de sinal ao Verbo Encarnado. Para que o homem suba às sumas alturas, desce Deus dos céus para as criaturas. Com os raios claros do Sol da Justiça, resplandece a Virgem, dando ao sol cobiça. Sois lírio formoso que cheiro respira entre os espinhos. Da serpente a ira Vós a quebrantais com o vosso poder. Os cegos errados Vós alumiais. Fizestes nascer Sol tão fecundo, e como com nuvens cobristes o mundo. Ouvi, Mãe de Deus, minha Oração. Toquem Vosso peito os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, etc. <br> <br> <br>
+<b>Completas (9 horas da noite)</b> <br>
+Rogai a Deus, Vós, Virgem, nos converta, que a sua ira aparte de nós. Sede em meu favor etc. <br> <br> Glória seja ao Pai, etc.
+<br> Hino <br>
+Deus Vos salve, Virgem Imaculada, Rainha de clemência, de estrelas coroada. Vós sobre os Anjos sois purificada; de Deus à mão direita estais de ouro ornada. Por Vós, Mãe de graça, mereçamos ver a Deus nas alturas, com todo prazer. Pois sois esperança dos pobres errantes, e seguro porto dos navegantes. Estrela do mar e saúde certa, e porta que estais para o céu aberta. É óleo derramado, Virgem, Vosso nome, e os vossos servos vos hão sempre amado. Ouvi, Mãe de Deus, minha Oração. Toquem Vosso peito os clamores meus.
+<br> Oração <br>
+Santa Maria, Rainha dos céus, etc. <br> <br>
+Oferecimento <br>
+Humildes oferecemos a Vós, Virgem pia, estas orações, porque, em nossa guia, vades Vós adiante. E na agonia, Vós nos animeis, ó doce Virgem Maria. Amém </p></div><hr><h3></h3><div>
+

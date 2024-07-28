@@ -540,3 +540,25 @@ h1, h2, h3, h4 {
 .visitorbadge {
     margin-top: 10px;
 }
+
+
+.page-footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    opacity: 0.8;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: #eee;
+}
+.page-footer .bottom-nav {
+    padding-bottom: 2em;
+}
+.page-footer a {
+    color: inherit;
+    opacity: 1;
+}
+.page-footer a:hover {
+    text-decoration: underline;
+}

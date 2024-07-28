@@ -540,3 +540,59 @@ h1, h2, h3, h4 {
 .visitorbadge {
     margin-top: 10px;
 }
+
+
+.page-footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    opacity: 0.8;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: #eee;
+}
+.page-footer .bottom-nav {
+    padding-bottom: 2em;
+}
+.page-footer a {
+    color: inherit;
+    opacity: 1;
+}
+.page-footer a:hover {
+    text-decoration: underline;
+}
+
+.chapter-pager .fa {
+    opacity: 0.5;
+    /*font-size: 24px;*/
+    margin-top: 10px;
+}
+.chapter-pager .chapter-prev .pager-arrow {
+    float: left;
+    margin-right: 10px;
+}
+.chapter-pager .pager-labels {
+    font-size: 16px;
+    position: absolute;
+}
+.chapter-pager .chapter-prev .pager-labels {
+    right: 15px;
+    text-align: right;
+}
+.chapter-pager .pager-labels .part {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 5px;
+}
+.book.color-theme-1 .chapter-pager .pager-labels .part {
+    color: #70421480;
+}
+.chapter-pager .pager-labels .chapter-label {
+    padding-top: 3px;
+}
+
+.chapter-pager .chapter-next .pager-arrow {
+    float: right;
+    margin-left: 10px;
+}

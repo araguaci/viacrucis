@@ -18,6 +18,10 @@
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                     {% endif %}
 
+                    <div id="table-of-contents">
+                      {% toc %}
+                    </div>
+
                     {{ content }}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}

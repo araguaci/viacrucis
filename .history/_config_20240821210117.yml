@@ -4,12 +4,12 @@ longtitle:        Via Sacra
 author:           araguaci
 email:            araguaci@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  A expressão vem do latim e significa “caminho sagrado”: literalmente falando, nada mais é que o trajeto percorrido por Nosso Senhor com a Cruz às costas, desde o pretório de Pilatos, onde foi condenado à morte, até o Calvário, onde foi crucificado.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://viacrucis.vercel.app/'
 baseurl:          ''
 rss:              RSS
 
@@ -22,7 +22,7 @@ toc:
   h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+favicon_path:     /assets/img/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
@@ -58,8 +58,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
+  - posts
   - others
 
 page_width: 900px
@@ -72,3 +72,15 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  - jekyll-toc
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-

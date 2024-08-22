@@ -365,10 +365,6 @@ em:is([data-theme=dark] *) {
     color: rgb(226 193 162 / var(--tw-text-opacity))
 }
 
-.red, .text-red-500, h1, h2 {
-    color: #c00;
-}
-
 .page-inner {
     max-width: 901px;
 }
@@ -510,3 +506,45 @@ li	{ list-style-type:circle; list-style-position:inside; }
 .page-footer a:hover {
     text-decoration: underline;
 }
+
+.red, .text-red-500, h1, h2, em {
+    color: #c00;
+    font-weight: bold;
+}
+
+.green, .text-green-500 {
+    color: rgb(0, 122, 18);
+    font-weight: bold;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: #c00;
+    font-weight: bold;
+    /*font-family: Berkshire Swash, ui-serif, Georgia, Cambria, Times New Roman, Times, serif, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";*/
+    font-family: MedievalSharp, ui-serif, Georgia, Cambria, Times New Roman, Times, serif, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+}
+
+.berkshire-swash-regular {
+    font-family: "Berkshire Swash", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.medievalsharp-regular {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.visitorbadge {
+    margin-top: 10px;
+}
+
+.section-nav {
+    background-color: #fff;
+    margin: 5px 0;
+    padding: 10px 30px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+  }

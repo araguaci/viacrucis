@@ -18,6 +18,10 @@
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                     {% endif %}
 
+                    <div id="table-of-contents">
+                      {% toc %}
+                    </div>
+
                     {{ content }}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
@@ -39,46 +43,63 @@
             {%- include search.html -%}
         </div>
     </div>
+    
     <div class="page-footer">
         <div class="bottom-nav">
-          <a href="/jekyll-chapterbook/index.html">
+          <a href="/">
             Home
           </a>
           -
-          <a href="/jekyll-chapterbook/book.html">
-            Book
+          <a href="/pages/catecismo/">
+            Catecismo
           </a>
           -
-          <a href="https://github.com/jasongrimes/jekyll-chapterbook">
-            GitHub
+          <a href="/pages/juramento/">
+            Juramento 
           </a>
           -
-          <a href="/jekyll-chapterbook/privacy.html">
-            Privacy
+          <a href="/pages/oracoes/">
+            Orações
           </a>
+          -
+          <a href="/pages/rosario/">
+            Rosário
+          </a>
+          -
+          <a href="/pages/verdades/">
+            Verdades de Fé
+          </a>
+          -
+          <a href="/pages/sete-dores-santissima-virgem-maria/">
+            Sete Dores <span class="text-red-500">SVM</span>
+          </span>  
         </div>
         <div class="copyright">
-          <a href="/jekyll-chapterbook/book.html">
-            ©
-            2023-
-            2024
-            Jason Grimes
+          <a href="http://www.artesdosul.com/">
+            ©2024 artesdosul
           </a>
         </div>
-      </div>
-      <div>
-        <p>
-          <script
-            async
-            src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+        <div class="visitorbadge">
+          <img
+            src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fviacrucis.vercel.app%2F&label=visitantes&countColor=%23263759"
+            alt="visitantes"
+            loading="lazy"
           />
-          <i className="fa-solid fa-user" />
-          <span id="busuanzi_value_site_uv" />
-          &nbsp;|&nbsp;
-          <i className="fa-solid fa-eye" />
-          <span id="busuanzi_value_site_pv" />
-        </p>
-      </div>
+        </div> 
+        <div>
+          <p>
+            <script
+              async
+              src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+            />
+            <i class="fa-solid fa-user" />&nbsp;
+            <span id="busuanzi_value_site_uv" />&nbsp;
+            |
+            <i class="fa-solid fa-eye" />&nbsp;
+            <span id="busuanzi_value_site_pv" />&nbsp;
+          </p>
+        </div>
+      </div>      
 </div>
 
 <!-- introduce mathjax support -->

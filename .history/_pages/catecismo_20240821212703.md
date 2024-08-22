@@ -2,6 +2,7 @@
 title: Catecismo
 category: Orações
 layout: postside
+toc: true
 ---
 
 # Mandamentos da lei de Deus
